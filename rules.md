@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-Febraury 05th, 2020
+February 05th, 2020
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
