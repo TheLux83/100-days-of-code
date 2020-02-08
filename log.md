@@ -20,3 +20,9 @@
 
 **Thoughts:** It's really frustrating when you have an error and absolutely no idea why this error pops up. This is the downside of learning from a book. If you don't understand everything that is written, you have a bad time searching for a fix, when one occurs.
 
+### Day 4: February 08, 2020
+
+**Today's Progress**: Did the gettings started tutorial for Django. Finished part 2 of it. 
+
+**Thoughts:** Since the last frustating moment with Flask, I wanted to give Django a shot to see, if it's easier to use. First I was confused of all the files and folders it creates. But my reading of the flask book helped a lot to understand what's going on here. I will definitely go through the whole tutorial and after that I will choose what framework I'm using for my fire department app.
+
