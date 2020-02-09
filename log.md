@@ -26,3 +26,9 @@
 
 **Thoughts:** Since the last frustating moment with Flask, I wanted to give Django a shot to see, if it's easier to use. First I was confused of all the files and folders it creates. But my reading of the flask book helped a lot to understand what's going on here. I will definitely go through the whole tutorial and after that I will choose what framework I'm using for my fire department app.
 
+### Day 5: February 09, 2020
+
+**Today's Progress**: Progressed the Django tutorial and reread the previous 2 tutorial sites. Getting into models and views
+
+**Thoughts:** I realised that Django and Flask are familiar in many steps, but different in other. I still benefit from learning Flask before jumping into django, but I have to reread the tutorial steps to really learn what I typed. This will take a bit longer, but I understand what I'm doing then ^^
+
