@@ -34,7 +34,13 @@
 
 ### Day 6: February 10, 2020
 
-**Today's Progress**: Reqritten the whole Django Tutorial. First to get the commands into my brain and second because I hadn't the code on this computer.
+**Today's Progress**: Rewritten the whole Django Tutorial. First to get the commands into my brain and second because I hadn't the code on this computer.
 
 **Thoughts:** It wasn't a bad idea to rewrite everything. I think, that the whole thing is settling in my brain. I understand more and more of that what I'm typing. I'm still aren't able to write a whole website on my own, but I hope, that at the end of this week, I will have gone through the whole tutorial and am able to start my little project.
+
+### Day 7: February 11, 2020
+
+**Today's Progress**: Learned Django Tests and creating better (read shorter) code today.
+
+**Thoughts:** Still have much to learn. And I had a hard time understing tests in my flask tutorial. But again, thanks to this tutorial I now understand tests and the importance of them. Have a few sites for implementing tests and then only chapter 6 remains. 
 
