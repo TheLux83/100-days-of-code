@@ -38,9 +38,9 @@
 
 **Thoughts:** It wasn't a bad idea to rewrite everything. I think, that the whole thing is settling in my brain. I understand more and more of that what I'm typing. I'm still aren't able to write a whole website on my own, but I hope, that at the end of this week, I will have gone through the whole tutorial and am able to start my little project.
 
-### Day 7: February 11, 2020
+### Day 8: February 12, 2020
 
-**Today's Progress**: Learned Django Tests and creating better (read shorter) code today.
+**Today's Progress**: Learned the rest of the test chapter. Additionally learned how to use static sites and how to customize the admin page
 
-**Thoughts:** Still have much to learn. And I had a hard time understing tests in my flask tutorial. But again, thanks to this tutorial I now understand tests and the importance of them. Have a few sites for implementing tests and then only chapter 6 remains. 
+**Thoughts:** I've finished the 'getting started' Tutorial. Now on to the real app. The Fire Department database! (Oh how I will have to read the documentation every 5 minutes because I don't know what I'm doing!)
 
