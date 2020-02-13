@@ -44,3 +44,9 @@
 
 **Thoughts:** I've finished the 'getting started' Tutorial. Now on to the real app. The Fire Department database! (Oh how I will have to read the documentation every 5 minutes because I don't know what I'm doing!)
 
+### Day 9: February 13, 2020
+
+**Today's Progress**: Started my Firedepartment App. created the first models for VehicleTypes with normalisation. Added all vehicle types we need
+
+**Thoughts:** Had to reread most of what I coded from the getting started tutorial. But I think that' a normal behaviour, because it's the first time I code on my own. It's very suprising and satisfying that I was able to create the first functional models in no time. Tomorrow I will create the next model. I've decided to build the backend before the front end.
+
