@@ -50,3 +50,9 @@
 
 **Thoughts:** Had to reread most of what I coded from the getting started tutorial. But I think that' a normal behaviour, because it's the first time I code on my own. It's very suprising and satisfying that I was able to create the first functional models in no time. Tomorrow I will create the next model. I've decided to build the backend before the front end.
 
+### Day 10: February 14, 2020
+
+**Today's Progress**: Created all database models I needed. 
+
+**Thoughts:** Haven't done much more than creating the models. But it was a good training, because I've added differen Fieldsets and learned a lot from it. The time I'll implement all models into the admin interface. After that, I don't have any excuse left and have to script the frontend.
+
