@@ -56,3 +56,9 @@
 
 **Thoughts:** Haven't done much more than creating the models. But it was a good training, because I've added differen Fieldsets and learned a lot from it. The time I'll implement all models into the admin interface. After that, I don't have any excuse left and have to script the frontend.
 
+### Day 11: February 15, 2020
+
+**Today's Progress**: Today is saturday and I "only" reread Python tutorials.
+
+**Thoughts:** My code is at work and I used my saturday (and probably my sunday, too) for re-reading python tutorial to keep my mind busy and don't forget the most basic parts for my django apps
+
