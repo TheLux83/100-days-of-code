@@ -62,3 +62,9 @@
 
 **Thoughts:** My code is at work and I used my saturday (and probably my sunday, too) for re-reading python tutorial to keep my mind busy and don't forget the most basic parts for my django apps
 
+### Day 12: February 16, 2020
+
+**Today's Progress**: Like yesterday, I re-read a Python tutorial. Read about strings, dictionaries, loops and inputs.
+
+**Thoughts:** I already know most of these concepts, but it's refreshing to re-read these, so I don't forget how to do a for loop correctly
+
