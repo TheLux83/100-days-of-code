@@ -68,3 +68,9 @@
 
 **Thoughts:** I already know most of these concepts, but it's refreshing to re-read these, so I don't forget how to do a for loop correctly
 
+### Day 13: February 17, 2020
+
+**Today's Progress**: Added all models to the admin page. Read about customizing the admin page and made a doodle of the startpage
+
+**Thoughts:** I didn't do much coding today, but I'm in the making for the frontpage. Something that I'm most afraid of, because I have to get creative about the design. And I'm not that creative. Hopefully I will get this done as soon as possible
+
