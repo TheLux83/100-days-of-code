@@ -74,3 +74,9 @@
 
 **Thoughts:** I didn't do much coding today, but I'm in the making for the frontpage. Something that I'm most afraid of, because I have to get creative about the design. And I'm not that creative. Hopefully I will get this done as soon as possible
 
+### Day 14: February 18, 2020
+
+**Today's Progress**: Build all pages in Gimp. The design is done.
+
+**Thoughts:** Design isn't my best trait. But I think I did a good job. But it took the whole day. I hope that I'm able to script tomorrow again. 
+
