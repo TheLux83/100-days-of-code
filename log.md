@@ -80,3 +80,9 @@
 
 **Thoughts:** Design isn't my best trait. But I think I did a good job. But it took the whole day. I hope that I'm able to script tomorrow again. 
 
+### Day 15: February 19, 2020
+
+**Today's Progress**: Created my own admin page. Unfortunately this destroyed everything. Began from scratch with a new project
+
+**Thoughts:** Like so often, my problem was, that I wanted too much. I had created an own admin page to geht my own Title and getting rid of the "Django-Administration" label. But this destroyed the server. I couldn't figure out what the problem was. So I started completely new an try to do only as much as needed.
+
