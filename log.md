@@ -86,3 +86,9 @@
 
 **Thoughts:** Like so often, my problem was, that I wanted too much. I had created an own admin page to geht my own Title and getting rid of the "Django-Administration" label. But this destroyed the server. I couldn't figure out what the problem was. So I started completely new an try to do only as much as needed.
 
+### Day 16: February 20, 2020
+
+**Today's Progress**: build the first templates and created the first form
+
+**Thoughts:** It was a tough fight, creating the forms for my project. I had everything running, when I found out, that there was an easier way to acomplish my goals. So I had to rewrite everything. After that, I had a few issues with saving images. But after all, I've learned much today and hope, that the other forms don't take that long
+
