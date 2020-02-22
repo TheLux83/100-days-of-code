@@ -92,3 +92,9 @@
 
 **Thoughts:** It was a tough fight, creating the forms for my project. I had everything running, when I found out, that there was an easier way to acomplish my goals. So I had to rewrite everything. After that, I had a few issues with saving images. But after all, I've learned much today and hope, that the other forms don't take that long
 
+### Day 17: February 22, 2020
+
+**Today's Progress**: Played two Kata from CodeWars. Finished the first one, gave up on the second one
+
+**Thoughts:** It's weekend and I found a website namend codewars. Here you have to find solutions for given questions. The first one was really easy. convert an integer to a string. The second one let's me find out, it the given number was a perfect integral square and if yes, I have to finde the next integral square. I couldn't figure out how to do this and given up on it. Maybe I'll have better luck tomorrow with the next task. Yesterday was the birthday of my girlfriend, so no Challenge yesterday
+
