@@ -98,3 +98,9 @@
 
 **Thoughts:** It's weekend and I found a website namend codewars. Here you have to find solutions for given questions. The first one was really easy. convert an integer to a string. The second one let's me find out, it the given number was a perfect integral square and if yes, I have to finde the next integral square. I couldn't figure out how to do this and given up on it. Maybe I'll have better luck tomorrow with the next task. Yesterday was the birthday of my girlfriend, so no Challenge yesterday
 
+### Day 18: February 23, 2020
+
+**Today's Progress**: Played a few Kata from CodeWars. Finished two, on one I gave up
+
+**Thoughts:** My second day on CodeWars. It was fun (and easier than the last time). It's pretty cool to see the other solutions after you've submitted your own. Tomorrow I continue with my firedepartment App
+
