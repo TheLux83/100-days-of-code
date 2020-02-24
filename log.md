@@ -104,3 +104,9 @@
 
 **Thoughts:** My second day on CodeWars. It was fun (and easier than the last time). It's pretty cool to see the other solutions after you've submitted your own. Tomorrow I continue with my firedepartment App
 
+### Day 19: February 24, 2020
+
+**Today's Progress**: Created all necessary forms for my firedepartment website.
+
+**Thoughts:** Since I've created the first form last week, it wasn't that hard to create the rest. Tomorrow I'll create my base template.
+
