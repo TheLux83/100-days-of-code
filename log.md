@@ -110,3 +110,9 @@
 
 **Thoughts:** Since I've created the first form last week, it wasn't that hard to create the rest. Tomorrow I'll create my base template.
 
+### Day 20: February 25, 2020
+
+**Today's Progress**: Created a base template and installed bootstrap
+
+**Thoughts:** I've finished what I wanted to achieve today. But I'm not happy with the result. I only installed bootstrap and created half of a base template. I couldn't wrap my head around the whole template and static situation, so that I had to give up. Maybe tomorrow my head will be clearer
+
