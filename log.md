@@ -116,3 +116,9 @@
 
 **Thoughts:** I've finished what I wanted to achieve today. But I'm not happy with the result. I only installed bootstrap and created half of a base template. I couldn't wrap my head around the whole template and static situation, so that I had to give up. Maybe tomorrow my head will be clearer
 
+### Day 21: February 26, 2020
+
+**Today's Progress**: Extendes the base.html and added bootstrap features to it
+
+**Thoughts:** Unfortunately, I wasn't able to get bootstrap running. Django didn't find the static files. I don't know why, I've done everything like in the tutorials. Maybe I'll find a solution tomorrow
+
