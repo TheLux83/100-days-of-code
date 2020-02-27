@@ -122,3 +122,9 @@
 
 **Thoughts:** Unfortunately, I wasn't able to get bootstrap running. Django didn't find the static files. I don't know why, I've done everything like in the tutorials. Maybe I'll find a solution tomorrow
 
+### Day 22: February 27, 2020
+
+**Today's Progress**: Repaired the adding of bootstrap and modified the base.html a bit. Added colors and links
+
+**Thoughts:** Dumb me forogt one letter in bootstrap.css, so that it couldn't load. After that, I was able to play with the colors and the buttons. I've added a few links, too. Not acomplished very much. But it's a bit
+
