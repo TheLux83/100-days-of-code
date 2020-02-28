@@ -128,3 +128,9 @@
 
 **Thoughts:** Dumb me forogt one letter in bootstrap.css, so that it couldn't load. After that, I was able to play with the colors and the buttons. I've added a few links, too. Not acomplished very much. But it's a bit
 
+### Day 23: February 28, 2020
+
+**Today's Progress**: Tried to design my forms. First with bootstrap, then with crispy forms.
+
+**Thoughts:** I didn't know it is complicated to create a form with bootstrap. In my defense, I've created the database models with english names and want to have them in german printed. This don't seem to be that easy. Maybe I should'nt use ModelForm and switch to Form and create the forms from scratch
+
