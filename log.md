@@ -134,3 +134,9 @@
 
 **Thoughts:** I didn't know it is complicated to create a form with bootstrap. In my defense, I've created the database models with english names and want to have them in german printed. This don't seem to be that easy. Maybe I should'nt use ModelForm and switch to Form and create the forms from scratch
 
+### Day 24: February 29, 2020
+
+**Today's Progress**: Trained a few codewars katas. Got 3 solutions and one that I wasn't able to solve
+
+**Thoughts:** It's the weekend. So no coding on my Django app but train a few katas in codewars. I've solved 3 katas, which isn't that bad. I'm getting better and better :)
+
