@@ -140,3 +140,9 @@
 
 **Thoughts:** It's the weekend. So no coding on my Django app but train a few katas in codewars. I've solved 3 katas, which isn't that bad. I'm getting better and better :)
 
+### Day 25: March 1, 2020
+
+**Today's Progress**: Again, trained a few katas on codewars.
+
+**Thoughts:** Unfortunately this time I wasn't that good. I had to give up one kata, because I don't understood, what it wanted from me. I only finished one kata today.
+
