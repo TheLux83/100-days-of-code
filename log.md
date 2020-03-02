@@ -146,3 +146,9 @@
 
 **Thoughts:** Unfortunately this time I wasn't that good. I had to give up one kata, because I don't understood, what it wanted from me. I only finished one kata today.
 
+### Day 26: March 2, 2020
+
+**Today's Progress**: Created a new view for the vehicles list. Build a template for all forms.
+
+**Thoughts:** On going through my code again, I realised, that I could combine all forms to one template and only change the heading. This saves a few edits, when I have to change something. The second thing I've done today was creating the first view for displaying all vehicles from the database
+
