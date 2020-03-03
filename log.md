@@ -152,3 +152,9 @@
 
 **Thoughts:** On going through my code again, I realised, that I could combine all forms to one template and only change the heading. This saves a few edits, when I have to change something. The second thing I've done today was creating the first view for displaying all vehicles from the database
 
+### Day 27: March 3, 2020
+
+**Today's Progress**: Tried to load the pictures from my database. I couldn't find the solution
+
+**Thoughts:** Today was really frustrating. I would like to display the saved images from my database, but I wasn't able to do that. Googled the whole time and found a few ideas, but none of them really helped. I'm afraid I'm missing a few fundamental things here.
+
