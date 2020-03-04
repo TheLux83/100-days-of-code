@@ -158,3 +158,9 @@
 
 **Thoughts:** Today was really frustrating. I would like to display the saved images from my database, but I wasn't able to do that. Googled the whole time and found a few ideas, but none of them really helped. I'm afraid I'm missing a few fundamental things here.
 
+### Day 28: March 4, 2020
+
+**Today's Progress**: Worked further on getting the images shown. Got it running. Designed the template a bit further
+
+**Thoughts:** I've got the image loading running. A Youtube video showed me what I had to do and now it works. I even had enough time today, to design the list view a bit.
+
