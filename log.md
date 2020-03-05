@@ -164,3 +164,9 @@
 
 **Thoughts:** I've got the image loading running. A Youtube video showed me what I had to do and now it works. I even had enough time today, to design the list view a bit.
 
+### Day 29: March 4, 2020
+
+**Today's Progress**: read through a bootstrap tutorial, configured vim and designed the list pages
+
+**Thoughts:** I'm still on the design part for the list page of the vehicles. But I think I've finished it. Tomorrow I will create the detail page
+
