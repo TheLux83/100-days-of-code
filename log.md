@@ -170,3 +170,9 @@
 
 **Thoughts:** I'm still on the design part for the list page of the vehicles. But I think I've finished it. Tomorrow I will create the detail page
 
+### Day 30: March 5, 2020
+
+**Today's Progress**: Read through a tutorial to learn detailed views. Modified my list view and started on scripting the detailed view
+
+**Thoughts:** My list view was almost "perfect". I just had to switch from a function call to a class call in my urls.py. The details view is a little bit harder to learn. And I had not much time today. Still got my hour of coding
+
