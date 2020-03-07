@@ -176,3 +176,9 @@
 
 **Thoughts:** My list view was almost "perfect". I just had to switch from a function call to a class call in my urls.py. The details view is a little bit harder to learn. And I had not much time today. Still got my hour of coding
 
+### Day 31: March 6, 2020
+
+**Today's Progress**: Finished two Katas from CodeWars.
+
+**Thoughts:** I thought about creating a passphrase generator script, but I couldn't concentrate enough to build a new program. So I solved a few katas.
+
