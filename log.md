@@ -164,21 +164,27 @@
 
 **Thoughts:** I've got the image loading running. A Youtube video showed me what I had to do and now it works. I even had enough time today, to design the list view a bit.
 
-### Day 29: March 4, 2020
+### Day 29: March 5, 2020
 
 **Today's Progress**: read through a bootstrap tutorial, configured vim and designed the list pages
 
 **Thoughts:** I'm still on the design part for the list page of the vehicles. But I think I've finished it. Tomorrow I will create the detail page
 
-### Day 30: March 5, 2020
+### Day 30: March 6, 2020
 
 **Today's Progress**: Read through a tutorial to learn detailed views. Modified my list view and started on scripting the detailed view
 
 **Thoughts:** My list view was almost "perfect". I just had to switch from a function call to a class call in my urls.py. The details view is a little bit harder to learn. And I had not much time today. Still got my hour of coding
 
-### Day 31: March 6, 2020
+### Day 31: March 7, 2020
 
 **Today's Progress**: Finished two Katas from CodeWars.
 
 **Thoughts:** I thought about creating a passphrase generator script, but I couldn't concentrate enough to build a new program. So I solved a few katas.
+
+### Day 32: March 8, 2020
+
+**Today's Progress**: Started a passphrase generator script to code in the weekend. Created the inital script and added loading from a txt file and generating a string with 4 words.
+
+**Thoughts:** Today I finally started a second project, which occured to me this week. I wanted to create a (german) passphrase generator to generate better password for my colleagues. I've finished creating a 4 word long passphrase from a txt file. I'm pretty happy with the inital result.
 
