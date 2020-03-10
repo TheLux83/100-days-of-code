@@ -188,3 +188,9 @@
 
 **Thoughts:** Today I finally started a second project, which occured to me this week. I wanted to create a (german) passphrase generator to generate better password for my colleagues. I've finished creating a 4 word long passphrase from a txt file. I'm pretty happy with the inital result.
 
+### Day 33: March 10, 2020
+
+**Today's Progress**: Finished creating the detailpage for my fire trucks.
+
+**Thoughts:** Yesterday was a bad day, so I skipped coding. But today, I was able to finished the fundamentals of the detail page of the fire trucks. 
+
