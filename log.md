@@ -194,3 +194,9 @@
 
 **Thoughts:** Yesterday was a bad day, so I skipped coding. But today, I was able to finished the fundamentals of the detail page of the fire trucks. 
 
+### Day 34: March 11, 2020
+
+**Today's Progress**: Read a tutorial about Django forms
+
+**Thoughts:** Not much done today. Only had an hour and I wanted to use this hour to read a good tutorial about forms in Django. I hope that I'll create the edit page tomorrow and maybe update the creation forms, too.
+
