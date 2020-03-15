@@ -200,3 +200,15 @@
 
 **Thoughts:** Not much done today. Only had an hour and I wanted to use this hour to read a good tutorial about forms in Django. I hope that I'll create the edit page tomorrow and maybe update the creation forms, too.
 
+### Day 35: March 12, 2020
+
+**Today's Progress**: Created and edited my Django Forms to use the newly learned class based forms
+
+**Thoughts:** As written yesterdaz, I found a new way to create Django Forms with class based forms from [this turorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms). Today I created these forms and edited my old forms. I learned a lot from that and now I have working forms for new elements, editing elements and deleting elements.
+
+### Day 36: March 15, 2020
+
+**Today's Progress**: Coded Arguments for my weekend project, my 'Passphrase Generator'.
+
+**Thoughts:** I've searched for a way to read arguments one types into my passphrase generator and stumbled upon argparse. After reading [the tutorial](https://docs.python.org/3/howto/argparse.html#id1), I've coded most of my arguments today.
+
