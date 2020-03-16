@@ -212,3 +212,9 @@
 
 **Thoughts:** I've searched for a way to read arguments one types into my passphrase generator and stumbled upon argparse. After reading [the tutorial](https://docs.python.org/3/howto/argparse.html#id1), I've coded most of my arguments today.
 
+### Day 37: March 16, 2020
+
+**Today's Progress**: Little Design work. changed the buttons from 'Anzeigen | Bearbeiten' to 'Bearbeiten | Löschen' and vertically aligned the list
+
+**Thoughts:** Today was a short day for coding, so I designed the database a bit. Now I have german words in my forms and the user is able to delete an entry. Additionally, the list is vertically aligned to the bottom. Little, but important things.
+
