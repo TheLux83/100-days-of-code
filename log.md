@@ -218,3 +218,9 @@
 
 **Thoughts:** Today was a short day for coding, so I designed the database a bit. Now I have german words in my forms and the user is able to delete an entry. Additionally, the list is vertically aligned to the bottom. Little, but important things.
 
+### Day 38: March 17, 2020
+
+**Today's Progress**: Testing everything on the vehicle side of my database with entering real data
+
+**Thoughts:** Today was database testing day. I've added several items into my database to see, if everything works. Unfortunately, it doesn't work with images. It seems, that they are saved in a wrong path (or not saved at all?) I have to investigate this
+
