@@ -224,3 +224,9 @@
 
 **Thoughts:** Today was database testing day. I've added several items into my database to see, if everything works. Unfortunately, it doesn't work with images. It seems, that they are saved in a wrong path (or not saved at all?) I have to investigate this
 
+### Day 39: March 19, 2020
+
+**Today's Progress**: Created a way to upload images in my form field. Tried to solve the comma problem in my DecimalFields.
+
+**Thoughts:** The image problem wasn't that big. I just had to insert `enctype="multipart/form-data"` into my form. But I lost 1,5 hours to figure out how to use a comma instead of a point in my forms. And I didn't found any good solution. Maybe tomorrow will be a better day...
+
