@@ -230,3 +230,9 @@
 
 **Thoughts:** The image problem wasn't that big. I just had to insert `enctype="multipart/form-data"` into my form. But I lost 1,5 hours to figure out how to use a comma instead of a point in my forms. And I didn't found any good solution. Maybe tomorrow will be a better day...
 
+### Day 40: March 20, 2020
+
+**Today's Progress**: Entered data to my Database. Nothing more today
+
+**Thoughts:** Got not much done today. But the vehicles are in the database. Next time I hope I can make the detail page look nicer
+
