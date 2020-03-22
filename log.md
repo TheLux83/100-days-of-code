@@ -236,3 +236,15 @@
 
 **Thoughts:** Got not much done today. But the vehicles are in the database. Next time I hope I can make the detail page look nicer
 
+### Day 41: March 21, 2020
+
+**Today's Progress**: Watched a tutorial about vscode. Setup my vscode.
+
+**Thoughts:** I had the idea of switching to vscode log ago now. And today I made the switch. I've tested vim as my daily driver, but I want to see, if the other ones are better. So from today on, I'll use vscode.
+
+### Day 42: March 22, 2020
+
+**Today's Progress**: Created passphrase lists from **diceware**. Created localization for the help text. Code Cleanup
+
+**Thoughts:** I've found that diceware has several lists for several languages. I've imported them and trimmed them down for my use case. Additionally I've created localization files for the help text. I've created one for german and one for english, but I think, that this isn't even necessary. But you know, I learned how to do that. And that is good :)
+
