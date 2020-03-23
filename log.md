@@ -248,3 +248,9 @@
 
 **Thoughts:** I've found that diceware has several lists for several languages. I've imported them and trimmed them down for my use case. Additionally I've created localization files for the help text. I've created one for german and one for english, but I think, that this isn't even necessary. But you know, I learned how to do that. And that is good :)
 
+### Day 43: March 23, 2020
+
+**Today's Progress**: Created a table view for the invoices of my fire_dep app
+
+**Thoughts:** The (hopefully) last thing I had to do on the vehicles list is the table view fir the invoices each vehicle has. Generally I'm finished with it. Only linking is missing. But therefore I need to have a details or edit view for the invcoices. These are the next thing I will work on.
+
