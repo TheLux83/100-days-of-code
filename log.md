@@ -254,3 +254,15 @@
 
 **Thoughts:** The (hopefully) last thing I had to do on the vehicles list is the table view fir the invoices each vehicle has. Generally I'm finished with it. Only linking is missing. But therefore I need to have a details or edit view for the invcoices. These are the next thing I will work on.
 
+### Day 44: March 24, 2020
+
+**Today's Progress**: Created the complete views for the company site
+
+**Thoughts:** As I thought. When I've finished everything in one category, the others won't be that hard. So I've created nearly the whole company view today. Not finished completely, but didn't had enough time. So tomorrow I'll finish this section and work on the invoices after that.
+
+### Day 45: March 25, 2020
+
+**Today's Progress**: Created the rest of the company views and mostly everything for the invoice views
+
+**Thoughts:** Like I said yesterday, these view too were not that hard to create. Now that everything is finished, I'll hunt for bugs and will make fine-tuning here and there.
+
