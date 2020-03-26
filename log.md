@@ -266,3 +266,9 @@
 
 **Thoughts:** Like I said yesterday, these view too were not that hard to create. Now that everything is finished, I'll hunt for bugs and will make fine-tuning here and there.
 
+### Day 46: March 26, 2020
+
+**Today's Progress**: Migrated the database to my new fire dep app. polished the views.
+
+**Thoughts:** Despite the fact, that I've almost entirely worked on my fire dep app today, I only finished to migrate the live data to it and polished a few views. But it was worth it. Now everything is there and I really just have to make everything a little nicer. After that, I can release it to the wild of my office!
+
