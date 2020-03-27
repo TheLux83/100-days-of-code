@@ -272,3 +272,9 @@
 
 **Thoughts:** Despite the fact, that I've almost entirely worked on my fire dep app today, I only finished to migrate the live data to it and polished a few views. But it was worth it. Now everything is there and I really just have to make everything a little nicer. After that, I can release it to the wild of my office!
 
+### Day 47: March 27, 2020
+
+**Today's Progress**: Created an "active" effect to see, in which category you are. First tries to save creation date and modified date
+
+**Thoughts:** It's friday, so it comes to no suprise, that I'm not that concentrated. Still got the active effect running for the navbar. But couldn't figure out how to save the creation date for my models. I hope I'll resolve this on monday.
+
