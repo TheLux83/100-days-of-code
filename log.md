@@ -278,3 +278,9 @@
 
 **Thoughts:** It's friday, so it comes to no suprise, that I'm not that concentrated. Still got the active effect running for the navbar. But couldn't figure out how to save the creation date for my models. I hope I'll resolve this on monday.
 
+### Day 48: March 28, 2020
+
+**Today's Progress**: Finished my Passphrase project by implementing numbers. Watched the start of the tkinter tutorial
+
+**Thoughts:** I've finished my little passphrase program. But since it's not that user friendly to use a console program, I started learning tkinter to create a little gui for it. It's a 5:30 hour video. So much to watch and learn.
+
