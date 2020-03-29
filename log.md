@@ -284,3 +284,9 @@
 
 **Thoughts:** I've finished my little passphrase program. But since it's not that user friendly to use a console program, I started learning tkinter to create a little gui for it. It's a 5:30 hour video. So much to watch and learn.
 
+### Day 49: March 29, 2020
+
+**Today's Progress**: Created a little simple calculator from a tutorial.
+
+**Thoughts:** tkinter seems to be pretty easy, but you don't have a gui to create the gui. You have to create everything from text. So it seems, that this is the reason, many people don't like it. But I think, if you don't want to create a big gui, it's pretty good.
+
