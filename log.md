@@ -290,3 +290,9 @@
 
 **Thoughts:** tkinter seems to be pretty easy, but you don't have a gui to create the gui. You have to create everything from text. So it seems, that this is the reason, many people don't like it. But I think, if you don't want to create a big gui, it's pretty good.
 
+### Day 50: March 30, 2020
+
+**Today's Progress**: Started with a user authentication for me fire department Django App
+
+**Thoughts:** I still have to figure out, how to insert the currently logged in user in my database, but I think, before I can do that, I have to make sure, that there is some user authentication. Because of that, I started developing a user authentication with a little tutorial from [this mozilla website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication). Got the authentication running, but nothing more at the moment
+
