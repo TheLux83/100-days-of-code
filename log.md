@@ -296,3 +296,9 @@
 
 **Thoughts:** I still have to figure out, how to insert the currently logged in user in my database, but I think, before I can do that, I have to make sure, that there is some user authentication. Because of that, I started developing a user authentication with a little tutorial from [this mozilla website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication). Got the authentication running, but nothing more at the moment
 
+### Day 51: March 31, 2020
+
+**Today's Progress**: Finished inserting created by and modified by to my models, finished uploading PDF Files to invoices with checking of PDF extension
+
+**Thoughts:** Both things weren't that hard to implement, when you know what you have to do. But you have to know them. So a good chunk of my time went away with searching for an answer. But now it's implemented. The next thing will be displaying the pdf file directly on the invoice details page
+
