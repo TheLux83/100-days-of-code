@@ -302,3 +302,9 @@
 
 **Thoughts:** Both things weren't that hard to implement, when you know what you have to do. But you have to know them. So a good chunk of my time went away with searching for an answer. But now it's implemented. The next thing will be displaying the pdf file directly on the invoice details page
 
+### Day 52: April 01, 2020
+
+**Today's Progress**: Installed a pagination in the invoice list, because it's very long. Styled it with Bootstrap
+
+**Thoughts:** The installation wasn't that difficult. But I couldn't figure out, how to not show all pages, but only a few. Have to look into this tomorrow. I've given up on implementing a viewport for pdf files. I think it's okay to just download them in the first version and implement the iframe in the second version / update of the app.
+
