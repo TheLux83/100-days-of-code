@@ -308,3 +308,9 @@
 
 **Thoughts:** The installation wasn't that difficult. But I couldn't figure out, how to not show all pages, but only a few. Have to look into this tomorrow. I've given up on implementing a viewport for pdf files. I think it's okay to just download them in the first version and implement the iframe in the second version / update of the app.
 
+### Day 53: April 02, 2020
+
+**Today's Progress**: Styled the login page, the startpage and the images for alle categories where there is not uploaded picture. Additionally added total costs for vehicles and companies in their detail page
+
+**Thoughts:** Today was a very good day. I styled many pages and I think that I'm 99% finished with styling. Additional to styling, I was successful in implemented a total costs view for every vehicle and every company, so that one has a general overlook how much the vehicle had cost us, or how much money a company made with us.
+
