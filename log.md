@@ -314,3 +314,9 @@
 
 **Thoughts:** Today was a very good day. I styled many pages and I think that I'm 99% finished with styling. Additional to styling, I was successful in implemented a total costs view for every vehicle and every company, so that one has a general overlook how much the vehicle had cost us, or how much money a company made with us.
 
+### Day 54: April 03, 2020
+
+**Today's Progress**: Last work on total costs of the current year finished. Sorting of the invoice lists implemented. Reading about deploying a Django Project
+
+**Thoughts:** I had to do a little work on my total costs for the current year, but that is finished now. Additionally I sorted all invoice lists to the invoice date. That's it for version 1. It's deployable, but not finished yet. I spent a few minutes reading about deploying a django project. But I will push this to monday.
+
