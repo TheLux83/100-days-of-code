@@ -320,3 +320,9 @@
 
 **Thoughts:** I had to do a little work on my total costs for the current year, but that is finished now. Additionally I sorted all invoice lists to the invoice date. That's it for version 1. It's deployable, but not finished yet. I spent a few minutes reading about deploying a django project. But I will push this to monday.
 
+### Day 55: April 06, 2020
+
+**Today's Progress**: Watched a video on how to deploy a django project 
+
+**Thoughts:** Watched Corey Schafers video on how to deploy a django project. I think I now understand what I have to do to deploy my fire department app. Hopefully everything will work tomorrow
+
