@@ -326,3 +326,9 @@
 
 **Thoughts:** Watched Corey Schafers video on how to deploy a django project. I think I now understand what I have to do to deploy my fire department app. Hopefully everything will work tomorrow
 
+### Day 56: April 07, 2020
+
+**Today's Progress**: Published my Safe_DB in Production. Added a modify and delete button to the detail pages and added attribution to the creator of the icons
+
+**Thoughts:** That's it! I've released my project! Whoopwhoop. Okay, the colleague who is gonna use it won't be in the office until next week and I have much more to do, but hey. It's productive and I can say I've finished it. More or less. Now on to Bug hunting and coding more features!
+
