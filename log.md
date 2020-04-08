@@ -332,3 +332,9 @@
 
 **Thoughts:** That's it! I've released my project! Whoopwhoop. Okay, the colleague who is gonna use it won't be in the office until next week and I have much more to do, but hey. It's productive and I can say I've finished it. More or less. Now on to Bug hunting and coding more features!
 
+### Day 57: April 08, 2020
+
+**Today's Progress**: Changed the text of the jumbotron textpanels and published my first patch
+
+**Thoughts:** It was awkward to publish the first patch, because I have absolutely no idea how to do that. For now my workaround was to copy my settings.py and my database and overwrite everything. After that I've copied the files back and changed permissions again. But there has to be a better way. I have to find out how.
+
