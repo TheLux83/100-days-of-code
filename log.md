@@ -338,3 +338,9 @@
 
 **Thoughts:** It was awkward to publish the first patch, because I have absolutely no idea how to do that. For now my workaround was to copy my settings.py and my database and overwrite everything. After that I've copied the files back and changed permissions again. But there has to be a better way. I have to find out how.
 
+### Day 58: April 09, 2020
+
+**Today's Progress**: Changed a textfield in my *_forms.html files to show the right header if someone is creating a new item or editing an existing one. Tried to get a comma separator running in my form fields. Didn't suceed. Asked reddit.
+
+**Thoughts:** Every tutorial or questions I found in the internet were for forms, but I have class based views and no forms. So maybe there is another solution, or I have to use forms for this solution. Maybe reddit know something
+
