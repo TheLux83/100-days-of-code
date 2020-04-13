@@ -328,7 +328,7 @@
 
 ### Day 56: April 07, 2020
 
-**Today's Progress**: Published my Safe_DB in Production. Added a modify and delete button to the detail pages and added attribution to the creator of the icons
+**Today's Progress**: Published my SafeDB in Production. Added a modify and delete button to the detail pages and added attribution to the creator of the icons
 
 **Thoughts:** That's it! I've released my project! Whoopwhoop. Okay, the colleague who is gonna use it won't be in the office until next week and I have much more to do, but hey. It's productive and I can say I've finished it. More or less. Now on to Bug hunting and coding more features!
 
@@ -340,7 +340,13 @@
 
 ### Day 58: April 09, 2020
 
-**Today's Progress**: Changed a textfield in my *_forms.html files to show the right header if someone is creating a new item or editing an existing one. Tried to get a comma separator running in my form fields. Didn't suceed. Asked reddit.
+**Today's Progress**: Changed a textfield in my forms.html files to show the right header if someone is creating a new item or editing an existing one. Tried to get a comma separator running in my form fields. Didn't suceed. Asked reddit.
 
 **Thoughts:** Every tutorial or questions I found in the internet were for forms, but I have class based views and no forms. So maybe there is another solution, or I have to use forms for this solution. Maybe reddit know something
+
+### Day 59-62: April 10, 2020 to April 13, 2020
+
+**Today's Progress**: Created a blog app from Corey Schafers YouTube tutorial
+
+**Thoughts:** Since I needed a News or Blog app for my SafeDB App anyways, I thought it might be a good idea to follow CoreySchafers Django Series, since it is highly recommended and now that I know a few things, it was easier to follow. And I've succeeded in creating this app. Now I just have to edit it, so that it fits into my SafeDB.
 
