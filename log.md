@@ -350,3 +350,15 @@
 
 **Thoughts:** Since I needed a News or Blog app for my SafeDB App anyways, I thought it might be a good idea to follow CoreySchafers Django Series, since it is highly recommended and now that I know a few things, it was easier to follow. And I've succeeded in creating this app. Now I just have to edit it, so that it fits into my SafeDB.
 
+### Day 63: April 14, 2020
+
+**Today's Progress**: Tried to implement my blog app into my fire_dep app.  
+
+**Thoughts:** First try to implement my newly created blog app into my fire_dep app. But unfortunately I wasn't able to. It was a problem with my created CustomUser in my safe_dep and the use of normal User models in the blog app. Have to find out what to do
+
+### Day 64: April 15, 2020
+
+**Today's Progress**: Implemented my blog app into my fire_dep app
+
+**Thoughts:** Well, not completely, but I managed to get it running. Now I have to change the user models or the user app I've implemented to create a profile.
+
