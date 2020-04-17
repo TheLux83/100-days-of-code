@@ -362,3 +362,15 @@
 
 **Thoughts:** Well, not completely, but I managed to get it running. Now I have to change the user models or the user app I've implemented to create a profile.
 
+### Day 65: April 16, 2020
+
+**Today's Progress**: Getting my blog running in my firedep App
+
+**Thoughts:** I got it almost running. I have edited the user app so that it fits to my generated CustomUsers. Now only the profile is missing.
+
+### Day 64: April 15, 2020
+
+**Today's Progress**: Completed implementing my blog
+
+**Thoughts:** I've finished implementing my blog. It has a profile and additionally to that, it inserts a 'read more' button if there are more than 50 word in a blog post. With that, my news system is ready to be implemented.
+
