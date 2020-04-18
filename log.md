@@ -368,9 +368,15 @@
 
 **Thoughts:** I got it almost running. I have edited the user app so that it fits to my generated CustomUsers. Now only the profile is missing.
 
-### Day 64: April 15, 2020
+### Day 66: April 17, 2020
 
 **Today's Progress**: Completed implementing my blog
 
 **Thoughts:** I've finished implementing my blog. It has a profile and additionally to that, it inserts a 'read more' button if there are more than 50 word in a blog post. With that, my news system is ready to be implemented.
+
+### Day 67: April 18, 2020
+
+**Today's Progress**: Watched tutorials about Django implementations of TinyMCE and CKEditor
+
+**Thoughts:** I want to have a WYSIWYG Editor for my database and since it's my weekend, today I just watched a few tutorials to see, what Editor I want to use. It seems that CKEditor is more educated (or more recorded) on YouTube. So I will use CKEditor. Tomorrow I'll try to implemnt it in my Testblog
 
