@@ -380,3 +380,9 @@
 
 **Thoughts:** I want to have a WYSIWYG Editor for my database and since it's my weekend, today I just watched a few tutorials to see, what Editor I want to use. It seems that CKEditor is more educated (or more recorded) on YouTube. So I will use CKEditor. Tomorrow I'll try to implemnt it in my Testblog
 
+### Day 68: April 22, 2020
+
+**Today's Progress**: Implemented pagination over alle three list sites, that I have. exported the pagination in an extra template
+
+**Thoughts:** I found out, that I forgot to implement pagination over alle three lists I'm showing. Vehicles, Companies and Invoices. Now everyone has pagination. Additionally I exported the code to an extra pagination.html for defragmentation. I started to implement django-tables2 to use pagination through a table, because alle invoices are shown on the detailpages of the vehicles and companies. I'll continue to work on that tomorrow
+
