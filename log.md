@@ -386,3 +386,9 @@
 
 **Thoughts:** I found out, that I forgot to implement pagination over alle three lists I'm showing. Vehicles, Companies and Invoices. Now everyone has pagination. Additionally I exported the code to an extra pagination.html for defragmentation. I started to implement django-tables2 to use pagination through a table, because alle invoices are shown on the detailpages of the vehicles and companies. I'll continue to work on that tomorrow
 
+### Day 69: April 23, 2020
+
+**Today's Progress**: Implemented a default value in my URLfields. deactivated django-tables2
+
+**Thoughts:** Got not much done today. I tried to customize the django-tables2 field, but it need an own class and it seems, that I cannot use my DetailView, if I want to customize it. Maybe I should ask in the subreddit how to do what I want to do. After that, I added an 'https://' default value in my URLfield, so that everyone knows, that this is required. Not the best solution, but a solution nonetheless. All in all this was not a very productive day
+
